@@ -660,8 +660,8 @@ This guide is provided under the **MIT License**. Use it, share it, fork it, tra
 
 If this guide helped you, consider **starring the repo**! It helps others find it.
 
-[![GitHub stars](https://img.shields.io/github/stars/Eprahemi-MSI/linux-laptop-cooldown?style=social)](https://github.com/eprahemi/fix-laptop-overheat-linux)
+[![GitHub stars](https://img.shields.io/github/stars/eprahemi/fix-laptop-overheat-linux?style=social)](https://github.com/eprahemi/fix-laptop-overheat-linux)
 
 ---
 
-*Last updated: June 2026 · Created by [Eprahemi-MSI](https://github.com/eprahemi)*
+*Last updated: June 2026 · Created by [Eprahemi](https://github.com/eprahemi)*
