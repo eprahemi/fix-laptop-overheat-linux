@@ -664,4 +664,4 @@ If this guide helped you, consider **starring the repo**! It helps others find i
 
 ---
 
-*Last updated: June 2026 · Created by [Eprahemi](https://github.com/eprahemi)*
+*June 2026 · Created by [Eprahemi](https://github.com/eprahemi)*
