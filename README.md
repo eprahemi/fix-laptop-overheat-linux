@@ -1,4 +1,4 @@
-# Linux Laptop Cooldown Guide
+# Modern Linux Laptops Overheating Cooldown Guide
 
 > **Stop your hybrid-graphics laptop from overheating — on any distro.**
 
