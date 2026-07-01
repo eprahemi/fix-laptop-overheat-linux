@@ -331,7 +331,7 @@ sudo pacman -S flatseal
 
 | Setting | Value |
 |---------|-------|
-| 🖥️ **Wayland Socket** | ✅ ON |
+| 🖥️ **Inherit Wayland Socket** | ✅ ON |
 | 🎮 **GPU Acceleration** | ✅ ON |
 | ❌ **Fallback to X11** | ⛔ OFF |
 
