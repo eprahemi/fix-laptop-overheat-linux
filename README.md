@@ -234,7 +234,7 @@ VAAPI (Video Acceleration API) lets your **Intel integrated GPU** handle video d
 <summary><b>🐧 Fedora (default)</b></summary>
 
 ```bash
-sudo dnf install intel-media-driver -y
+sudo dnf install intel-media-driver libva-utils -y
 ```
 </details>
 
