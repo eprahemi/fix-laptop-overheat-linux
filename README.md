@@ -242,7 +242,7 @@ sudo dnf install intel-media-driver libva-utils -y
 <summary><b>🐟 Ubuntu / Debian / Pop!_OS</b></summary>
 
 ```bash
-sudo apt install intel-media-driver -y
+sudo apt install intel-media-driver libva-utils -y
 ```
 </details>
 
@@ -250,7 +250,7 @@ sudo apt install intel-media-driver -y
 <summary><b>📐 Arch Linux / Manjaro / EndeavourOS</b></summary>
 
 ```bash
-sudo pacman -S intel-media-driver
+sudo pacman -S intel-media-driver libva-utils
 ```
 </details>
 
