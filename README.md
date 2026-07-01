@@ -59,8 +59,10 @@ Both cards **share the same heat pipe and fan**. Even when you're just browsing 
 - **Important First:** You need to update your linux and your Linux Distributions in the terminal.
 - ├── Fedora
 │   └── sudo dnf upgrade
+
 ├── Ubuntu / Debian
 │   └── sudo apt update && sudo apt upgrade
+
 └── Arch
     └── sudo pacman -Syu
 - **You need:** A working internet connection and sudo (admin) access.
