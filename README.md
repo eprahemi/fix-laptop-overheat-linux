@@ -314,10 +314,13 @@ After relaunch, YouTube, Netflix, and any video playback use the Intel GPU inste
 # Install Flatseal
 # Fedora:
 sudo dnf install flatseal -y
+```
 
+```bash
 # Ubuntu/Debian:
 sudo apt install flatseal -y
-
+```
+```bash
 # Arch:
 sudo pacman -S flatseal
 ```
