@@ -468,8 +468,14 @@ Make sure you typed the command exactly. If a package won't install, try updatin
 ```bash
 # Fedora
 sudo dnf update
+```
+
+```bash
 # Ubuntu/Debian
 sudo apt update
+```
+
+```bash
 # Arch
 sudo pacman -Syu
 ```
